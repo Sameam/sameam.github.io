@@ -1,0 +1,27 @@
+import React from 'react';
+
+const Card = ({data}) => {
+  return (
+    <div className='row'>
+        {data.map((item) => {
+          return (
+            <div className="col-md-4 lead mb-3 d-flex align-items-stretch" style={{float:"left"}} >
+            <div className="card mb-2">
+              <img className="card-img-top"
+              src={item.image} alt="Card cap" />
+              <div className="card-body card">
+                <h4 className="card-title">{item.title}</h4>
+                <p className="card-text">Requirements: {item.requirement}</p>
+                <p className="card-text">Backend: {item.backend}</p>
+                <p className="card-text">Frontend: {item.frontend}</p>
+              </div>
+            </div>  
+            </div>
+          );
+        })}
+    </div>  
+  )
+}  
+
+
+export default Card;
