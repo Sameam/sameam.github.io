@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.686b8271.css",
-    "main.js": "/my-app/static/js/main.0f136a63.js",
-    "static/media/myself.jpg": "/my-app/static/media/myself.7a786bb00693cd3002c6.jpg",
-    "static/media/electron.png": "/my-app/static/media/electron.24e160e3aa743180387e.png",
-    "static/media/cifar10.png": "/my-app/static/media/cifar10.878fa6da7dfa064f0853.png",
-    "static/media/flask.jpg": "/my-app/static/media/flask.8a01313c00b148cc3f8a.jpg",
-    "index.html": "/my-app/index.html",
-    "main.686b8271.css.map": "/my-app/static/css/main.686b8271.css.map",
-    "main.0f136a63.js.map": "/my-app/static/js/main.0f136a63.js.map"
+    "main.css": "/my_resume/static/css/main.686b8271.css",
+    "main.js": "/my_resume/static/js/main.d992ec12.js",
+    "static/media/myself.jpg": "/my_resume/static/media/myself.7a786bb00693cd3002c6.jpg",
+    "static/media/electron.png": "/my_resume/static/media/electron.24e160e3aa743180387e.png",
+    "static/media/cifar10.png": "/my_resume/static/media/cifar10.878fa6da7dfa064f0853.png",
+    "static/media/flask.jpg": "/my_resume/static/media/flask.8a01313c00b148cc3f8a.jpg",
+    "index.html": "/my_resume/index.html",
+    "main.686b8271.css.map": "/my_resume/static/css/main.686b8271.css.map",
+    "main.d992ec12.js.map": "/my_resume/static/js/main.d992ec12.js.map"
   },
   "entrypoints": [
     "static/css/main.686b8271.css",
-    "static/js/main.0f136a63.js"
+    "static/js/main.d992ec12.js"
   ]
 }
