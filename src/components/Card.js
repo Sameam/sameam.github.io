@@ -12,8 +12,8 @@ const Card = ({data}) => {
               <div className="card-body card">
                 <h4 className="card-title">{item.title}</h4>
                 <p className="card-text">Requirements: {item.requirement}</p>
-                <p className="card-text">Backend: {item.backend}</p>
-                <p className="card-text">Frontend: {item.frontend}</p>
+                {item.backend ? <p className="card-text">Backend: {item.backend}</p> : <p className="card-text">Description: {item.description}</p>}
+                {item.frontend ? <p className="card-text">Frontend: {item.frontend}</p> : <p></p>}
               </div>
             </div>  
             </div>

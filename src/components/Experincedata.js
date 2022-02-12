@@ -29,12 +29,14 @@ const education = [
   {
     "title":"Master of Information Technology",
     "date":"27-02-2020 to 20-11-2021",
-    "description":"University of Western Australia, Perth. GPA:6.2/7. The degree using web framework to create a website, based on Python, and modern new frontend framework. In addition, I also learned about Machine learning and data science project."
+    "description":"University of Western Australia, Perth. GPA:6.2/7. The degree using web framework to create a website, based on Python, and modern new frontend framework. In addition, I also learned about Machine learning and data science project.", 
+    "skills":"Python (Flask, Django), Java, R, HTML, CSS, Javascript (Node.js, React.js, Express framework,), Data Science (Numpy, Pandas, Sklearn, TensorFlow), AWS (EC2, S3, DynamoDB), SQLite,  MySQL, Docker,"
   },
   {
     "title":"Bachelor of Applied Finance",
     "date":"27-02-2017 to 10-12-2019",
-    "description":"Macquarie University, Sydney. GPA:6.2/7. The degree mainly focus on risk management, financial product derivatives and portfolio management etc."
+    "description":"Macquarie University, Sydney. GPA:6.2/7. The degree mainly focus on risk management, financial product derivatives and portfolio management etc.",
+    "skills":"Derivative (option, future), Risk management (Monte Carlo Simulation), portfolio management (Modern Portfolio theory)"
   }
 ]
 

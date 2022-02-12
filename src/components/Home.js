@@ -4,7 +4,8 @@ import "../index.css"
 import Timeline from './Timeline';
 import timelineData from '../timeline';
 import myself from "./pictures/myself.jpg";
-import {Link} from "react-scroll"
+import {Link} from "react-scroll";
+import Resume from "./pictures/Resume.pdf"
 
 
 const Home = () => {
@@ -20,6 +21,9 @@ const Home = () => {
       <button className='btn btn-outline-info text-center' style={{marginBottom:'10px'}}>
         <Link to="footer" smooth={true}>Contact</Link>
       </button>
+      <a href={Resume} target="_blank" rel="noopener noreferrer" download="nara_eam_resume.pdf">
+        <button className='btn btn-outline-info text-center' style={{marginBottom:'10px',float:"right"}}>Download PDF</button>
+      </a>
     </div>
     <div className='container-fluid my-1' style={{backgroundColor:"white",color:"black"}}>
       <h2 className='text-center text-dark'>TimeLines</h2>

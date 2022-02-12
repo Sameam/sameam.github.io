@@ -20,7 +20,7 @@ const project = [
   {
     "title":"Convolutional Neural Network",
     "requirement":"Using CIFAR-10 dataset, able to recognize the picture and make prediction",
-    "backend":"It done using Python Tensorflow with accuracy acound 80%",
+    "description":"It done using Python Tensorflow with accuracy acound 80%",
     "image":cifar
   }
 ]

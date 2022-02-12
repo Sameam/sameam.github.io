@@ -28,8 +28,11 @@ const Experince = () => {
 							<Experiencetime data={education} />
 						</ul>
 					</div>
-
 				</section>
+				<div className='mt-1' style={{backgroundColor:"white"}}>
+					<h2 className='text-dark text-center'>Professional skills</h2>
+					
+				</div>
   </Base>;
 };
 

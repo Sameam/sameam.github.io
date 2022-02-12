@@ -11,6 +11,7 @@ const Experiencetime = ({data}) => {
           <h4>{item.name}</h4>
           <p>{item.date}</p>
           <p>{item.description}</p>
+          {item.skills ? <p>Skills: {item.skills}</p>: <p></p>}
         </div>
       </li>
     )}
