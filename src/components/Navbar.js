@@ -6,7 +6,6 @@ import { Navbar, Container, Nav} from 'react-bootstrap'
 
 const Navbars = () => {
 
-  
   return (
   <Navbar bg="dark" expand="lg" variant="dark">
     <Container fluid>
