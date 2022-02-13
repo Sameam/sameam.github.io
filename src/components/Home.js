@@ -18,9 +18,9 @@ const Home = () => {
       <p>I'm Nara Eam, from Cambodia. </p>
       <p>I'm graduated from Univerity in Western Australia. I love programming, reading books and listening to musics.</p>
       <p>Feel free to get contact or take a look at my portfolio for further understanding</p>
-      <button className='btn btn-outline-info text-center' style={{marginBottom:'10px'}}>
-        <Link to="footer" smooth={true}>Contact</Link>
-      </button>
+      <Link to="footer" smooth={true}>
+        <button className='btn btn-outline-info text-center' style={{marginBottom:'10px'}}>Contact</button>
+      </Link>
       <a href={Resume} target="_blank" rel="noopener noreferrer" download="nara_eam_resume.pdf">
         <button className='btn btn-outline-info text-center' style={{marginBottom:'10px',float:"right"}}>Download PDF</button>
       </a>

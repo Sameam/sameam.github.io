@@ -14,6 +14,8 @@ const Card = ({data}) => {
                 <p className="card-text">Requirements: {item.requirement}</p>
                 {item.backend ? <p className="card-text">Backend: {item.backend}</p> : <p className="card-text">Description: {item.description}</p>}
                 {item.frontend ? <p className="card-text">Frontend: {item.frontend}</p> : <p></p>}
+                {item.url ? <a href={item.url}>Visit Website</a> : <a></a>}
+                {item.source_code ? <a className='card-text' href={item.source_code}>Source Code</a> : <a></a>}
               </div>
             </div>  
             </div>

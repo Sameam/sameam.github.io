@@ -8,6 +8,8 @@ const project = [
     "requirement":"Website, Have lessons with different levels, quiz to test the knowledge ",
     "backend":"The website is mainly done using Flask python framework for backend and use SQLite for storing persistent data", 
     "frontend":"The frontend is mainly based on HTML, CSS and JavaScript",
+    "url":"https://statistic-study.herokuapp.com",
+    "source_code":"https://github.com/Sameam/Project2",
     "image":flask
   }, 
   {
@@ -15,6 +17,7 @@ const project = [
     "requirement":"Desktop Software, upload files, store all information into Database, get summary report and data visualization",
     "backend":"The website mainly done using Flask framework with SQLite to store Peristent data",
     "frontend":"using HTML, CSS, JavaScript with Electron JS to turn into the Desktop application",
+    "source_code":"https://github.com/WentworthJin/Unit_Budget_Planner",
     "image":electron
   },
   {
@@ -24,7 +27,6 @@ const project = [
     "image":cifar
   }
 ]
-
 
 
 export default project
