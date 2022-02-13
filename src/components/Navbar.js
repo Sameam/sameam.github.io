@@ -1,33 +1,29 @@
 import React from 'react';
 import {Link} from 'react-router-dom'
+import { Navbar, Container, Nav} from 'react-bootstrap'
 
 
 
-const Navbar = () => {
+const Navbars = () => {
 
   
   return (
-  <div>
-    <nav className="navbar navbar-expand-lg navbar-dark">
-      <div className="container-fluid">
-      <h2 classname="display-4" style={{marginLeft:"10px", marginTop:"5px"}}>Nara Eam</h2>
-        <div className="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
-          <ul className="navbar-nav">
-            <li className="nav-item">
-              <Link className="nav-link" to="/">Home</Link>
-            </li>
-            <li className="nav-item">
-              <Link className="nav-link" to="/portfolio">Portfolio</Link>
-            </li>
-            <li className="nav-item">
-              <Link className="nav-link" to="/experience">About Me</Link>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </nav>
-  </div>
-  );
+  <Navbar bg="dark" expand="lg" variant="dark">
+    <Container fluid>
+      <h2 className=''>Nara Eam</h2>
+      <Navbar.Toggle aria-controls="basic-navbar-nav"/>
+      <Navbar.Collapse id="basic-navbar-nav" className='justify-contend-end' >
+        <Nav className="justify-content-end" style={{ width: "100%"}}>
+          <Link className="nav-link" to="/">Home</Link>
+          <Link className="nav-link" to="/portfolio">Portfolio</Link>
+          <Link className="nav-link" to="/experience">Experinces</Link>
+        </Nav>
+      </Navbar.Collapse>
+    </Container>
+  </Navbar>
+);
 };
 
-export default Navbar;
+export default Navbars;
+
+
