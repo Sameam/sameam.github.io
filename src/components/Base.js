@@ -37,7 +37,7 @@ const Base = ({children}) => {
         marginLeft: '20px',
       }}>
         <p className='col-sm'>© 2017-{new Date().getFullYear()} Nara Eam</p>
-        <a href="" className='col-sm-2 text-right'>Website Source Code</a>
+        <a href="https://github.com/Sameam/my_resume" className='col-sm-2 text-right'>Website Source Code</a>
       </div>
     </footer>
   </div>
