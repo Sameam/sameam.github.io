@@ -3,7 +3,7 @@ const timelineData = [
     "title": "University",
     "subtitle":"Start Bachelor",
     "description":"Start my Bachelor at Macquarie University, major in Applied Finance, GPA 6.2/7",
-    "date": "27 July 2017"
+    "date": "24 July 2017"
   }, 
   {
     "title": "Internship",
@@ -15,7 +15,7 @@ const timelineData = [
     "title": "Internship",
     "subtitle":"Second Internship",
     "description":"Got my internship in Australia at Pacific Home Loan, Sydney, Australia. The role requires to meet with clients, identify their needs and provide recommendation for home or business financial loan",
-    "date": "20 December 2018"
+    "date": "04 March 2019"
   },
   {
     "title": "How I Start to code",
@@ -39,25 +39,25 @@ const timelineData = [
     "title": "First website project",
     "subtitle":"create an education website for students supplementary study.",
     "description":"After a few months of coding, I was introduced to a flask framework, HTML, CSS and Javascript to create a websites.",
-    "date": "01 April 2020"
+    "date": "05 April 2021"
   }, 
   {
     "title": "Part-time Job",
     "subtitle":"Work in education Industry",
     "description":"Work as a teacher, teach students age around 12 to code in Python ",
-    "date": "10 August 2020"
+    "date": "10 August 2021"
   }, 
   {
     "title": "Project before graduate",
     "subtitle":"Final Project before graduate",
     "description":"Start my first real life project, that have real clients, with real requirements. The project requires to create a desktop software application, that will calculate the budget and produce a visualization.",
-    "date": "10 August 2020"
+    "date": "10 August 2021"
   }, 
   {
     "title": "Freelance",
     "subtitle":"Work as data scientist",
     "description":"Perform Web scraping to get the data. Data will be processed and visualization. Then, use the Machine learning algorithm to train and predict the data. Finally, check, deploy, maintain and update the model.",
-    "date": "10 August 2020"
+    "date": "13 December 2021"
   }
 ]
 
