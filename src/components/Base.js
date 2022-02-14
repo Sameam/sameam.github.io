@@ -31,12 +31,13 @@ const Base = ({children}) => {
           <i class="bx bx-chevron-right"></i><Link to="/experience">Experinces</Link>
       </div>
     </div>  
-      <div className='text-white' style={{
+      <div className='text-white row' style={{
         fontWeight: 300,
-        fontSize: '0.80rem',
+        fontSize: '0.90rem',
         marginLeft: '20px',
       }}>
         <p className='col-sm'>© 2017-{new Date().getFullYear()} Nara Eam</p>
+        <a href="" className='col-sm-2 text-right'>Website Source Code</a>
       </div>
     </footer>
   </div>
