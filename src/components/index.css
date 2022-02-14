@@ -18,3 +18,16 @@ div.carousel {
   padding-left: auto;
   padding-right: auto;
 }
+
+.instruction {
+  border-left: 6px solid #00458b;
+  line-height: 1.2;
+  overflow: auto;
+  padding: 24px;
+  width: 90%;
+  margin-bottom: 40px;
+  border-top: 1px solid black;
+  border-right: 1px solid black;
+  border-bottom: 1px solid black;
+  box-shadow: 3px 2px 4px 5px;
+}
