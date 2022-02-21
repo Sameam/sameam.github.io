@@ -1,6 +1,7 @@
 import flask from "./components/pictures/flask.jpg"
 import electron from "./components/pictures/electron.png"
 import cifar from "./components/pictures/cifar10.png"
+import django from "./components/pictures/django.jpg"
 
 const project = [
   {
@@ -19,6 +20,15 @@ const project = [
     "frontend":"using HTML, CSS, JavaScript with Electron JS to turn into the Desktop application",
     "source_code":"https://github.com/WentworthJin/Unit_Budget_Planner",
     "image":electron
+  },
+  {
+    "title":"Ecommerce Platform",
+    "requirement":"Ecommerce Website that will allow user to upload their products, category, picture and display to user",
+    "backend":"The website mainly done using Django framework with SQLite to store Peristent data",
+    "frontend":"using ReactJS framework, with React-boostrap for styling",
+    "upcoming":"There is still some features to be add on such as payment, and fully integrated with django admin. At the moment, django admin is not fully integrated with the websites.",
+    "source_code":"https://github.com/Sameam/ecommerce",
+    "image":django
   },
   {
     "title":"Convolutional Neural Network",

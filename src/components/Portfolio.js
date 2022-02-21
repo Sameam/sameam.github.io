@@ -14,17 +14,9 @@ const Portfolio = () => {
     </div>
     <div className='container-fluid mt-5' style={{backgroundColor:"white"}}>
       <h1 className='text-center text-dark' style={{paddingBottom:"15px"}}>My Projects</h1>
-      <div id="multi-item-example" className="carousel slide carousel-fade carousel-multi-item" data-ride="carousel">
-        <div className="carousel-indicators">
-          <li data-target="#multi-item-example" data-slide-to="0" className="active"></li>
-          <li data-target="#multi-item-example" data-slide-to="1"></li>
-        </div>
-        <div className="carousel-inner carousel" role="listbox">
-          <div className="carousel-item active">
-            <Card className="card-top" data = {project}/>
-          </div> 
-        </div>  
-      </div>   
+        <div className="card-group">
+          <Card className="card-top" data = {project}/>
+        </div>   
     </div>
   </Base>;
 };
