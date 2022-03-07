@@ -31,9 +31,11 @@ const project = [
     "image":django
   },
   {
-    "title":"Convolutional Neural Network",
-    "requirement":"Using CIFAR-10 dataset, able to recognize the picture and make prediction",
-    "description":"It done using Python Tensorflow with accuracy acound 80%",
+    "title":"Simple Machine Learning Project",
+    "requirement":"This project is mainly a simple web interface that will take user input and make prediction. The dataset that used in this project includes: dry_bean dataset and CIFAR-10 dataset.",
+    "description":"The machine learning part is done using python Sklearn and Tensorflow to produce an image recognition. The web interface is done using React and backend is done using Flask server.",
+    "upcoming":"The project is still an ongoing project. The Tensorflow server and web application for image upload and recognition is not finished yet. However, the dry bean prediction is 90% done. ",
+    "source_code":"https://github.com/Sameam/machine_learning",
     "image":cifar
   }
 ]
