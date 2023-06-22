@@ -9,7 +9,6 @@ const project = [
     "requirement":"Website, Have lessons with different levels, quiz to test the knowledge ",
     "backend":"The website is mainly done using Flask python framework for backend and use SQLite for storing persistent data", 
     "frontend":"The frontend is mainly based on HTML, CSS and JavaScript",
-    "url":"https://statistic-study.herokuapp.com",
     "source_code":"https://github.com/Sameam/Project2",
     "image":flask
   }, 
