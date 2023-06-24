@@ -32,7 +32,7 @@ const timelineData = [
   {
     "title": "First time Code",
     "subtitle":"First project",
-    "description":"After starting my It degree, I started to learn to code in python and Java. I build some simple python project and java simple board game.",
+    "description":"After starting my IT degree, I started to learn to code in python and Java. I built some simple python project and java simple board game.",
     "date": "01 April 2020"
   }, 
   {
@@ -48,9 +48,9 @@ const timelineData = [
     "date": "10 August 2021"
   }, 
   {
-    "title": "Project before graduate",
-    "subtitle":"Final Project before graduate",
-    "description":"Started my first real life project, that have real clients, with real requirements. The project requires to create a desktop software application, that will calculate the budget and produce a visualization.",
+    "title": "Project before graduation",
+    "subtitle":"Final Project before graduation",
+    "description":"Embarking on my inaugural real-life project, I had the opportunity to collaborate with actual clients, addressing their specific needs. The project entailed developing a desktop software application tasked with budget calculations and generating visual representations.",
     "date": "10 August 2021"
   }, 
   {
@@ -66,10 +66,10 @@ const timelineData = [
   {
     "title": "AWS Certified Cloud Practitioner",
     "subtitle":"AWS Cloud Certificate", 
-    "description":`- Understand about 
+    "description":`
       - AWS Cloud concepts, 
       - AWS services, 
-      - security, architecture, pricing, and support to build the AWS Cloud knowledge.`,
+      - Security, architecture, pricing, and support to build the AWS Cloud knowledge.`,
     "date":"07 July 2022"
   }, 
   {

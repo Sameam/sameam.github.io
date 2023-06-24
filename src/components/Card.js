@@ -5,7 +5,7 @@ const Card = ({data}) => {
     <div className='row'>
         {data.map((item) => {
           return (
-            <div className="col-md-4 lead mb-3 d-flex align-items-stretch" style={{float:"left"}} >
+            <div className="col-md-6 lead mb-2 d-flex align-items-stretch" style={{float:"left"}} >
             <div className="card mb-2">
               <img className="card-img-top"
               src={item.image} alt="Card cap" />

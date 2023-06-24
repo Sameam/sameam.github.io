@@ -44,10 +44,10 @@ const Experince = () => {
 							<li>Microsoft office: Word, Excel, PowerPoint</li>
 							<li>Container: Docker</li>
 							<li>Statistical programs: Gretl, Eview, Business Intelligence: Tableau, Power BI</li>
-							<li>Programming Languages: Python, R, Java, Swift, C++</li>
-							<li>Database: MYSQL, SQLite, MongoDB</li>
-							<li>Web Backend development - Flask framework, Django framework, Express framework</li>
-							<li>Web Frontend development - HTML, CSS, JavaScript, React.JS</li>
+							<li>Programming Languages: Python, Java, R, Swift, C++,</li>
+							<li>Database: MySQL, SQLite, MongoDB</li>
+							<li>Web Backend development - Django framework, Express framework, Flask framwork</li>
+							<li>Web Frontend development - ES6, React.JS</li>
 							<li>Machine Learning skill - using Numpy, Pandas, SkLearn, TensorFlow -ANN, CNN,Autoencoder</li>
 							<li>Cloud Services : Amazon Web Service - EC2, S3, DynamoDB</li>
 						</ul>
