@@ -58,6 +58,17 @@ const timelineData = [
     "subtitle":"Work as data scientist",
     "description":"Perform Web scraping to get the data. Data will be processed and visualization. Then, use the Machine learning algorithm to train and predict the data. Finally, check, deploy, maintain and update the model.",
     "date": "13 December 2021"
+  }, 
+  {
+    "title":" An Artificial/Machine learning Developer", 
+    "subtitle":"Current Roles", 
+    "description":" \
+     - Developed and deployed an AI model for both iOS and Android using OpenAI, enhancing user experience \
+     - Designed and implemented AI logic backend with Swift, improving application responsiveness by 20% \
+     - Created a user_friendly dashboard for admin using Vapor framework, streamlining information management and control. \
+     - Collaborated effectively with the team, providing technical insight, and delivering solutions that exceeded project requirements. \
+     ",
+    "date": "16 August 2022"
   }
 ]
 

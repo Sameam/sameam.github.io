@@ -5,7 +5,7 @@ import Timeline from './Timeline';
 import timelineData from '../timeline';
 import myself from "./pictures/myself.jpg";
 import {Link} from "react-scroll";
-import Resume from "./pictures/Resume.pdf"
+import Resume from "./pictures/Nara_Eam 2.pdf";
 
 
 const Home = () => {
@@ -21,7 +21,7 @@ const Home = () => {
       <Link to="footer" smooth={true}>
         <button className='btn btn-outline-info text-center' style={{marginBottom:'10px'}}>Contact</button>
       </Link>
-      <a href={Resume} target="_blank" rel="noopener noreferrer" download="nara_eam_resume.pdf">
+      <a href={Resume} target="_blank" rel="noopener noreferrer" download="Nara_Eam.pdf">
         <button className='btn btn-outline-info text-center' style={{marginBottom:'10px',float:"right"}}>Download PDF</button>
       </a>
     </div>

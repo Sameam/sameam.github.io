@@ -10,6 +10,9 @@ const Timeline = ({data}) => {
   return (
     <VerticalTimeline>
       {data.map((item) => {
+        
+        const descriptions = item.description.split('-').map((description) => description.trim()).filter(description => description !== "")
+        console.log(descriptions)
         return (
           <VerticalTimelineElement
             key={item.title}
@@ -22,7 +25,9 @@ const Timeline = ({data}) => {
               {item.subtitle}
             </Typography>
             <div>
-              <p>{item.description}</p>
+              {descriptions.map((description,index) => (
+                <p key={index}>- {description}</p>
+              ))}
             </div>
             <div dangerouslySetInnerHTML={{ __html: item.html }} />
           </VerticalTimelineElement>
