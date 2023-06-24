@@ -15,7 +15,7 @@ const Navbars = () => {
         <Nav className="justify-content-end" style={{ width: "100%"}}>
           <Link className="nav-link" to="/">Home</Link>
           <Link className="nav-link" to="/portfolio">Portfolio</Link>
-          <Link className="nav-link" to="/experience">Experinces</Link>
+          <Link className="nav-link" to="/experience">Experiences</Link>
         </Nav>
       </Navbar.Collapse>
     </Container>

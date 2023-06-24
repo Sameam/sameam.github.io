@@ -56,8 +56,21 @@ const timelineData = [
   {
     "title": "Freelance",
     "subtitle":"Work as data scientist",
-    "description":"Perform Web scraping to get the data. Data will be processed and visualization. Then, use the Machine learning algorithm to train and predict the data. Finally, check, deploy, maintain and update the model.",
+    "description":`
+      - Successfully scraped and preprocessed datasets from various websites, enabling data_driven and decision_making for clients.
+      - Trained and validated machine learning models, achieving up to 95% prediction accuracy.
+      - Deployed and maintained machine learning models, ensuring optimal performance and timely update.
+      - Worked with diverse clients, demonstrating adaptability and strong communication skills.`,
     "date": "13 December 2021"
+  }, 
+  {
+    "title": "AWS Certified Cloud Practitioner",
+    "subtitle":"AWS Cloud Certificate", 
+    "description":`- Understand about 
+      - AWS Cloud concepts, 
+      - AWS services, 
+      - security, architecture, pricing, and support to build the AWS Cloud knowledge.`,
+    "date":"07 July 2022"
   }, 
   {
     "title":" An Artificial/Machine learning Developer", 

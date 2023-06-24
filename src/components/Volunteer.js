@@ -1,8 +1,21 @@
 import mentor from "./pictures/mentor.jpg"
 import pcs from "./pictures/pcs.png"
 import anz from "./pictures/anz.jpg"
+import ey from "./pictures/EY.jpg"
 
 const volunteer = [
+  {
+    "title":"Open Science Data Challenge", 
+    "data":"04-202 to 06-2023", 
+    "description":`
+      - Participated in the EY Open Science Data Challenge to identify rice crops in Vietnam using satellite data, contributing to the UN Sustainable Development Goal 2: Zero Hunger.
+      - Enhanced proficiency in Python for data science, machine learning, and big data management.
+      - Developed a rice crop classification model for prioritizing actions to ensure food security.
+      - Utilized technical skills in math, statistics, and coding to analyse and interpret satellite data.
+      - Applied critical thinking, problem_solving, and teamwork skills to tackle real_world challenges.`,
+    "logo": ey,
+    "url":"https://www.ey.com/en_gl/careers/data-science-challenge"
+  },
   {
     "title":"ANZ Virtual Experince",
     "date":"28-06-2021 to 30-06-2021",

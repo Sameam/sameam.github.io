@@ -12,7 +12,7 @@ const Experince = () => {
     <section className="block-content t-block-teal l-block-spacing">
 			<div className="l-contained row text-left mb-2 d-flex align-items-stretch">
 				<header className="heading-group col-lg col-md-6">
-							<h2>Experinces</h2>
+							<h2>Experiences</h2>
 							<p class="subtitle">
 								Work Background
 							</p>
@@ -44,7 +44,8 @@ const Experince = () => {
 							<li>Microsoft office: Word, Excel, PowerPoint</li>
 							<li>Container: Docker</li>
 							<li>Statistical programs: Gretl, Eview, Business Intelligence: Tableau, Power BI</li>
-							<li>Programming Languages: Python, R, Java, MySQL, SQLite</li>
+							<li>Programming Languages: Python, R, Java, Swift, C++</li>
+							<li>Database: MYSQL, SQLite, MongoDB</li>
 							<li>Web Backend development - Flask framework, Django framework, Express framework</li>
 							<li>Web Frontend development - HTML, CSS, JavaScript, React.JS</li>
 							<li>Machine Learning skill - using Numpy, Pandas, SkLearn, TensorFlow -ANN, CNN,Autoencoder</li>

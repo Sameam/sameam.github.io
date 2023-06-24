@@ -12,7 +12,6 @@ const Timeline = ({data}) => {
       {data.map((item) => {
         
         const descriptions = item.description.split('-').map((description) => description.trim()).filter(description => description !== "")
-        console.log(descriptions)
         return (
           <VerticalTimelineElement
             key={item.title}

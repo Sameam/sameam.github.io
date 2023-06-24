@@ -12,7 +12,7 @@ const Home = () => {
   return <Base>
     <img className="center-block" src={myself} alt="Myself"/>
     <h1 className='text-center'>Nara Eam</h1>
-    <h6 className='text-center'>Student, Developer</h6>
+    <h6 className='text-center'>Artifical/Machine Learning Developer</h6>
     <div className='container-fluid' style={{backgroundColor:"white",color:"black",marginTop:"60px",maxWidth:"100%"}}>
       <h2>Hey !</h2>
       <p>I'm Nara Eam, from Cambodia. </p>
