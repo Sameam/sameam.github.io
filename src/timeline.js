@@ -20,13 +20,13 @@ const timelineData = [
   {
     "title": "How I Start to code",
     "subtitle":"Technology have become important in every industry",
-    "description":"I decide to continue my study at University of Western Australia in Information Technology. ",
+    "description":"I decided to continue my study at University of Western Australia in Information Technology. ",
     "date": "01 December 2019"
   }, 
   {
     "title": "University",
     "subtitle":"Master degree",
-    "description":"Start Master degree at University of Western Australia，major in Information Technology， GPA 6.2/7 ",
+    "description":"Started Master degree at University of Western Australia，major in Information Technology， GPA 6.2/7 ",
     "date": "27 February 2020"
   }, 
   {
@@ -37,20 +37,20 @@ const timelineData = [
   }, 
   {
     "title": "First website project",
-    "subtitle":"create an education website for students supplementary study.",
+    "subtitle":"Created an education website for students supplementary study.",
     "description":"After a few months of coding, I was introduced to a flask framework, HTML, CSS and Javascript to create a websites.",
     "date": "05 April 2021"
   }, 
   {
     "title": "Part-time Job",
     "subtitle":"Work in education Industry",
-    "description":"Work as a teacher, teach students age around 12 to code in Python ",
+    "description":"Worked as a teacher, teach students age around 12 to code in Python ",
     "date": "10 August 2021"
   }, 
   {
     "title": "Project before graduate",
     "subtitle":"Final Project before graduate",
-    "description":"Start my first real life project, that have real clients, with real requirements. The project requires to create a desktop software application, that will calculate the budget and produce a visualization.",
+    "description":"Started my first real life project, that have real clients, with real requirements. The project requires to create a desktop software application, that will calculate the budget and produce a visualization.",
     "date": "10 August 2021"
   }, 
   {

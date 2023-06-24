@@ -7,9 +7,8 @@ const Vcard = ({data}) => {
     <div className='row mx-5 px-5'>
       {data.map((item) => {
         const descriptions = item.description.split("-").map(description => description.trim()).filter(description => description !== "")
-        console.log(descriptions)
         return (
-        <div className="card" style={{maxWidth: '520px'}}>
+        <div className="card" style={{maxWidth: '480px'}}>
           <div className="row d-flex align-items-stretch">
             <div className="col-md-5">
               <img src={item.logo} class="img-fluid rounded-start" alt="Card cap" />

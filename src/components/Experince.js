@@ -33,7 +33,7 @@ const Experince = () => {
 			</div>
 		</section>
 		<div className='mt-1 pb-2' style={{backgroundColor:"white"}}>
-			<h2 className='text-dark text-center'>What I Do</h2>
+			<h2 className='text-dark text-center'>Volunteering</h2>
 			<Vcard data={volunteer} />
 			<h2 className='text-dark text-center'>Professional Skills</h2>
 			<div className='container instruction text-dark'>

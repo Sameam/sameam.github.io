@@ -26,7 +26,7 @@ const work = [
     "title":"Coaching",
     "date":"10-08-2021 to 11-07-2022",
     "name":"KZ Code education",
-    "description":"Teach children age around 12 years old to code in Python. "
+    "description":"Taught children age around 12 years old to code in Python. "
   },
   {
     "title":"Internship",
@@ -38,7 +38,7 @@ const work = [
     "title":"Internship",
     "date":"20-12-2018 to 20-02-2019",
     "name":"BeltRoad Cap (Private Equity)",
-    "description":"perform quantitative research on and present analysis to investors"
+    "description":"Performed quantitative research on and present analysis to investors"
   }
 ]
 
