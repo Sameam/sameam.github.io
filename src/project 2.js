@@ -6,15 +6,15 @@ import django from "./components/pictures/django.jpg"
 const project = [
   {
     "title":"Education Websites for students supplemental learning",
-    "requirement":"Website, Have lessons with different levels, quiz to test the knowledge ",
-    "backend":"The project employs Node.js and the Express framework for its backend, providing a powerful and scalable foundation. It uses MongoDB as its database, selected for its flexibility in managing complex data structures, significantly improving the application's scalability and overall performance.", 
-    "frontend":"The frontend leverages the Handlebars framework, chosen for its efficient rendering of dynamic content. This is complemented by HTML, CSS, and JavaScript, integrated seamlessly to craft an interactive and responsive user interface.",
-    "source_code":"https://github.com/Sameam/node_project_2",
+    "requirement":"The website features a diverse array of educational content, structured into distinct levels to accommodate various skillsets, and incorporates quizzes to facilitate knowledge assessment and reinforcement.",
+    "backend":"The website is mainly done using Flask python framework for backend and use SQLite for storing persistent data", 
+    "frontend":"The frontend is mainly based on HTML, CSS and JavaScript",
+    "source_code":"https://github.com/Sameam/Project2",
     "image":flask
   }, 
   {
     "title":"Unit Budget",
-    "requirement":"Desktop Software, upload files, store all information into Database, get summary report and data visualization",
+    "requirement":"A desktop software that allows for seamless file uploads, efficient storage of information into a database, and generation of summary reports along with comprehensive data visualizations for insightful analysis.",
     "backend":"The website mainly done using Flask framework with SQLite to store Peristent data",
     "frontend":"using HTML, CSS, JavaScript with Electron JS to turn into the Desktop application",
     "source_code":"https://github.com/WentworthJin/Unit_Budget_Planner",
