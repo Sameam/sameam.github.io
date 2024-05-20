@@ -62,12 +62,11 @@ const timelineData = [
   {
     "title":"Machine Learning & AI Engineer", 
     "subtitle":"Work in telecommunication company", 
-    "description":"As an ML/AI Engineer at Norwood System since August 2022, \
-                  I have transformed data science prototypes into fully functional AI models, significantly boosting user engagement by 25% on both iOS and Android platforms. \
-                  I engineered and deployed robust machine learning systems using Docker and Kubernetes, which increased deployment speed by 20% and scalability by 35%, thus improving system performance and reliability. \
-                  My role involved implementing a variety of machine learning algorithms, including predictive modeling and neural networks with Python and TensorFlow, to enhance real_time data processing accuracy and efficiency. \
-                  Additionally, I streamlined AI model deployment processes using Docker and Kubernetes, ensuring consistent application performance across platforms. Through rigorous statistical analysis and model optimization techniques, \
-                  I improved the prediction accuracy of machine learning models by over 30%.",
+    "description":`As an ML/AI Engineer at Norwood System since August 2022, 
+                  I have transformed data science prototypes into fully functional AI models, boosting user engagement by 25% on iOS and Android platforms. 
+                  I engineered and deployed robust ML systems with Docker and Kubernetes, increasing deployment speed by 20% and scalability by 35%. 
+                  Implementing various ML algorithms with Python and TensorFlow, I enhanced real_time data processing accuracy and efficiency. Additionally, 
+                  I streamlined AI model deployment processes, ensuring consistent performance across platforms, and improved prediction accuracy by over 30% through rigorous statistical analysis and model optimization.`,
     "date":"16 August 2022"
   }
 ]
