@@ -1,6 +1,6 @@
 const work = [
   {
-    "title":"Aritificial/Machine Learning Developer", 
+    "title":"Artificial/Machine Learning Developer", 
     "date":"16-08-2022 to Current", 
     "name":"Norwood Systems", 
     "description":`

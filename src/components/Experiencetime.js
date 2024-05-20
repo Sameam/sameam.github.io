@@ -10,7 +10,7 @@ const Experiencetime = ({data}) => {
       <li>
         <div class="content">
           <h3>{item.title}</h3>
-          {item.name ? <h4>Works: {item.name}</h4> : <h4>University: {item.school}</h4> }
+          {item.name ? <h4>Work: {item.name}</h4> : <h4>University: {item.school}</h4> }
           <p>{item.date}</p>
           {descriptions.map((description, index) => (
             <p key={index}>- {description}</p>

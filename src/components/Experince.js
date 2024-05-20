@@ -33,23 +33,21 @@ const Experince = () => {
 			</div>
 		</section>
 		<div className='mt-1 pb-2' style={{backgroundColor:"white"}}>
-			<h2 className='text-dark text-center'>Volunteering</h2>
-			<Vcard data={volunteer} />
-			<h2 className='text-dark text-center'>Professional Skills</h2>
+		<h2 className='text-dark text-center'>Professional Skills</h2>
 			<div className='container instruction text-dark'>
 				<div className='row'>
 					<div className='col-lg col-md-5'>
 						<h2>Technical Skills</h2>
 						<ul>
-							<li>Microsoft office: Word, Excel, PowerPoint</li>
-							<li>Container: Docker</li>
-							<li>Statistical programs: Gretl, Eview, Business Intelligence: Tableau, Power BI</li>
-							<li>Programming Languages: Python, Java, R, Swift, C++,</li>
-							<li>Database: MySQL, SQLite, MongoDB</li>
-							<li>Web Backend development - Django framework, Express framework, Flask framwork</li>
-							<li>Web Frontend development - ES6, React.JS</li>
-							<li>Machine Learning skill - using Numpy, Pandas, SkLearn, TensorFlow -ANN, CNN,Autoencoder</li>
-							<li>Cloud Services : Amazon Web Service - EC2, S3, DynamoDB</li>
+							<li><b>Programming Languages</b>: Python, R, Java, C++, Swift, Julia, JavaScript</li>
+							<li><b>Machine Learning</b>: TensorFlow, Numpy, Pandas, SkLearn, HuggingFace (Transformers), CNN, RNN</li>
+							<li><b>Data Management</b>: MySQL, SQLite, Postgres, MongoDB</li>
+							<li><b>Web Development Frameworks</b>: Flask, Django, Express, Vapor</li>
+							<li><b>Web Frontend development</b>: HTML, CSS, React</li>
+							<li><b>DevOps</b>: Docker, Kubernetes</li>
+							<li><b>Business Intelligence</b>: Tableau, Power BI</li>
+							<li><b>Web scraping</b>: BeautifulSoup, Selenium</li>
+							<li><b>Certificate</b>: AWS Certified Cloud Practitioner</li>
 						</ul>
 					</div>
 					<div className='col-lg-4 col-md-6'>
@@ -62,6 +60,8 @@ const Experince = () => {
 					</div>
 				</div>
 			</div>
+			<h2 className='text-dark text-center'>Extra-Curricular Activities</h2>
+			<Vcard data={volunteer} />
 		</div>
   </Base>;
 };

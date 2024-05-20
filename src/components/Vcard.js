@@ -8,12 +8,12 @@ const Vcard = ({data}) => {
       {data.map((item) => {
         const descriptions = item.description.split("-").map(description => description.trim()).filter(description => description !== "")
         return (
-        <div className="card" style={{maxWidth: '480px'}}>
+        <div className="card" style={{maxWidth: '550px'}}>
           <div className="row d-flex align-items-stretch">
-            <div className="col-md-5">
-              <img src={item.logo} class="img-fluid rounded-start" alt="Card cap" />
+            <div className="col-md-">
+              <img src={item.logo} class="img-fluid rounded-start card-img-top" alt="Card cap" />
             </div>
-            <div className="col-md-6">
+            <div className="col-md-">
               <div className="card-body">
                 <h5 className="card-title">{item.title}</h5>
                 <p>{item.date}</p>
