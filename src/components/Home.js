@@ -12,7 +12,7 @@ const Home = () => {
   return <Base>
     <img className="center-block" src={myself} alt="Myself"/>
     <h1 className='text-center'>Nara Eam</h1>
-    <h6 className='text-center'>Artifical/Machine Learning Developer</h6>
+    <h6 className='text-center'>Artifical/Machine Learning Engineer</h6>
     <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '30vh' }}>
       <a href={Resume} target="_blank" rel="noopener noreferrer" download="Nara_Eam.pdf" style={{ marginRight: '20px' }}>
         <button className='btn btn-outline-info text-center'>Download Resume</button>

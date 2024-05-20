@@ -17,10 +17,10 @@ const Timeline = ({data}) => {
             key={item.title}
             date={item.date}
           >
-            <Typography variant='h5' className='vertical-timeline-element-title' style={{fontFamily:'Supermercado One'}}>
+            <Typography variant='h5' className='vertical-timeline-element-title' style={{fontFamily:'Roboto", sans-serif'}}>
               {item.title}
             </Typography>
-            <Typography variant='h6' className='vertical-timeline-element-subtitle' style={{fontFamily:'Supermercado One'}}>
+            <Typography variant='h6' className='vertical-timeline-element-subtitle' style={{fontFamily:'Roboto", sans-serif'}}>
               {item.subtitle}
             </Typography>
             <div>

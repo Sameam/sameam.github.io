@@ -1,4 +1,4 @@
-import flask from "./components/pictures/flask.jpg"
+import node from "./components/pictures/nodeJS.png"
 import electron from "./components/pictures/electron.png"
 import cifar from "./components/pictures/cifar10.png"
 import django from "./components/pictures/django.jpg"
@@ -10,7 +10,7 @@ const project = [
     "backend":"The project employs Node.js and the Express framework for its backend, providing a powerful and scalable foundation. It uses MongoDB as its database, selected for its flexibility in managing complex data structures, significantly improving the application's scalability and overall performance.", 
     "frontend":"The frontend leverages the Handlebars framework, chosen for its efficient rendering of dynamic content. This is complemented by HTML, CSS, and JavaScript, integrated seamlessly to craft an interactive and responsive user interface.",
     "source_code":"https://github.com/Sameam/node_project_2",
-    "image":flask
+    "image":node
   }, 
   {
     "title":"Unit Budget",

@@ -4,12 +4,12 @@ const work = [
     "date":"16-08-2022 to Current", 
     "name":"Norwood Systems", 
     "description":`
-    - Developed and deployed an AI model for both iOS and Android using OpenAI, enhancing user experience.
-    - Designed and implemented AI logic backend with Swift, improving application responsiveness by 20%.
-    - Created a user_friendly dashboard for admin using Vapor framework, streamlining information management and control.
-    - Collaborated effectively with the team, providing technical insight, and delivering solutions that exceeded project requirements.
-    `,
-    "skills":"Swift, OpenAI, Python - numpy, Pandas, Transformer"
+    - Revamp data science prototypes into fully operational AI models, increasing user engagement by 25% on iOS and Android platforms.
+    - Engineer and deploy robust ML systems with Docker and Kubernetes, boosting deployment speed by 20% and scalability by 35%, enhancing system performance and reliability. 
+    - Implement various ML algorithms, including predictive modeling and neural networks with Python and TensorFlow, to elevate the accuracy and efficiency of real-time data processing.
+    - Implement and streamline AI model deployment processes using Docker and Kubernetes, enhancing efficiency and ensuring consistent application performance across platforms. 
+    - Enhance prediction accuracy of machine learning models by over 30% through rigorous statistical analysis and model optimization techniques.`,
+    "skills":"Swift, OpenAI, Python - numpy, Pandas, Transformer, Docker, Kubernetes, Hugging_Face"
   },
   {
     "title":"Data Scientist",
@@ -33,12 +33,6 @@ const work = [
     "date":"04-03-2019 to 04-06-2019",
     "name":"Pacific Home loan",
     "description":"Meet with clients, identify their needs, provide best recommendation for home or business loan. Performing general duties as necessaries."
-  },
-  {
-    "title":"Internship",
-    "date":"20-12-2018 to 20-02-2019",
-    "name":"BeltRoad Cap (Private Equity)",
-    "description":"Performed quantitative research on and present analysis to investors"
   }
 ]
 
