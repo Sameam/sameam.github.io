@@ -1,17 +1,22 @@
 {
   "files": {
-    "main.css": "/my_resume/static/css/main.686b8271.css",
-    "main.js": "/my_resume/static/js/main.d992ec12.js",
+    "main.css": "/my_resume/static/css/main.71369098.css",
+    "main.js": "/my_resume/static/js/main.1c58efaf.js",
+    "static/media/nodeJS.png": "/my_resume/static/media/nodeJS.c1cf99bffdd65e1a1e90.png",
+    "static/media/EY.jpg": "/my_resume/static/media/EY.955d3007b2ebf54b8b82.jpg",
     "static/media/myself.jpg": "/my_resume/static/media/myself.7a786bb00693cd3002c6.jpg",
+    "static/media/anz.jpg": "/my_resume/static/media/anz.39db1d681280658c9aea.jpg",
     "static/media/electron.png": "/my_resume/static/media/electron.24e160e3aa743180387e.png",
+    "static/media/Nara_Eam 2.pdf": "/my_resume/static/media/Nara_Eam 2.234a2da859f26acc416f.pdf",
+    "static/media/django.jpg": "/my_resume/static/media/django.ac0ff771b99f254f4c7b.jpg",
     "static/media/cifar10.png": "/my_resume/static/media/cifar10.878fa6da7dfa064f0853.png",
-    "static/media/flask.jpg": "/my_resume/static/media/flask.8a01313c00b148cc3f8a.jpg",
+    "static/media/mentor.jpg": "/my_resume/static/media/mentor.df7adafb6c3317c98958.jpg",
     "index.html": "/my_resume/index.html",
-    "main.686b8271.css.map": "/my_resume/static/css/main.686b8271.css.map",
-    "main.d992ec12.js.map": "/my_resume/static/js/main.d992ec12.js.map"
+    "main.71369098.css.map": "/my_resume/static/css/main.71369098.css.map",
+    "main.1c58efaf.js.map": "/my_resume/static/js/main.1c58efaf.js.map"
   },
   "entrypoints": [
-    "static/css/main.686b8271.css",
-    "static/js/main.d992ec12.js"
+    "static/css/main.71369098.css",
+    "static/js/main.1c58efaf.js"
   ]
 }
