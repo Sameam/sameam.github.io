@@ -1,6 +1,7 @@
 {
   "name": "my_resume",
   "version": "0.1.0",
+  "homepage": "https://sameam90.github.io/my_resume",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.3",
