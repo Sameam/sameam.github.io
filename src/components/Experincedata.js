@@ -4,12 +4,14 @@ const work = [
     "date":"16-08-2022 to Current", 
     "name":"Norwood Systems", 
     "description":`
-    - Revamp data science prototypes into fully operational AI models, increasing user engagement by 25% on iOS and Android platforms.
-    - Engineer and deploy robust ML systems with Docker and Kubernetes, boosting deployment speed by 20% and scalability by 35%, enhancing system performance and reliability. 
-    - Implement various ML algorithms, including predictive modeling and neural networks with Python and TensorFlow, to elevate the accuracy and efficiency of real-time data processing.
-    - Implement and streamline AI model deployment processes using Docker and Kubernetes, enhancing efficiency and ensuring consistent application performance across platforms. 
-    - Enhance prediction accuracy of machine learning models by over 30% through rigorous statistical analysis and model optimization techniques.`,
-    "skills":"Swift, OpenAI, Python - numpy, Pandas, Transformer, Docker, Kubernetes, Hugging_Face"
+    - Architect a robust AI microservices architecture that facilitated seamless integration with existing software components, enhancing system responsiveness by 30%.
+    - Lead the development of Text-to-Speech (TTS) and streaming solutions, advancing speech synthesis technology projects, and contributing to innovative digital products. 
+    - Engineer C++-based data pipelines using vector, map and shared_pointer to manage binary data and memory across services, enabling low-latency, real-time audio streaming.
+    - Implement LLM-powered agents using LangChain, crewAI, and RAG with NLP techniques to generate intelligent feedback and recommendations, automating evaluation and improving AI-driven user experiences. 
+    - Optimize deployment speed by 20% and scalability by 35% through containerized microservices and efficient API orchestration using Docker, Kubernetes, and RESTful interfaces.
+    - Utilize machine learning algorithms (predictive modeling, neural networks) with Python, PyTorch to improve data processing and boost prediction accuracy by 30%.
+    - Develop an interactive UI using React.JS and Typescript for demonstrating AI features to clients. 
+    - Mentor and guide interns on deploying AI services and integrating machine learning models with RESTful APIs into mobile applications, enabling the creation of an AI-agent chat system replicating real-time phone call interactions. `
   },
   {
     "title":"Data Scientist",
