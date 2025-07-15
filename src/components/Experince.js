@@ -39,10 +39,10 @@ const Experince = () => {
 					<div className='col-lg col-md-5'>
 						<h2>Technical Skills</h2>
 						<ul>
-							<li><b>Programming Languages</b>: Python, R, Java, C++, Swift, Julia, JavaScript</li>
-							<li><b>Machine Learning</b>: TensorFlow, Numpy, Pandas, SkLearn, HuggingFace (Transformers), CNN, RNN</li>
+							<li><b>Programming Languages</b>: Python, C++, Rust, JavaScript, Java, R</li>
+							<li><b>Machine Learning</b>: TensorFlow, Pytorch, Numpy, Pandas, SkLearn, HuggingFace (Transformers), CNN, RNN</li>
 							<li><b>Data Management</b>: MySQL, SQLite, Postgres, MongoDB</li>
-							<li><b>Web Development Frameworks</b>: Flask, Django, Express, Vapor</li>
+							<li><b>Web Development Frameworks</b>: FastAPI, Django, Express, </li>
 							<li><b>Web Frontend development</b>: HTML, CSS, React</li>
 							<li><b>DevOps</b>: Docker, Kubernetes</li>
 							<li><b>Business Intelligence</b>: Tableau, Power BI</li>

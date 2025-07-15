@@ -6,10 +6,9 @@ import stt from "./components/pictures/STT.png"
 const project = [
   {
     "title":"Automate Betting Project",
-    "requirement":"This project is mainly a simple web interface that will take user input and make prediction. The dataset that used in this project includes: dry_bean dataset and CIFAR-10 dataset.",
-    "description":"The machine learning part is done using python Sklearn and Tensorflow to produce an image recognition. The web interface is done using React and backend is done using Flask server.",
-    "upcoming":"The project is still an ongoing project. The Tensorflow server and web application for image upload and recognition is not finished yet. However, the dry bean prediction is 90% done. ",
-    "source_code":"https://github.com/Sameam/machine_learning",
+    "requirement": "This project is a comprehensive prediction system that takes historical sports data and real-time inputs to generate betting recommendations. The system processes multi-modal data including team statistics, player performance metrics, weather conditions, and betting market data to predict match outcomes and identify value betting opportunities.",
+    "description": "The machine learning component uses PyTorch to implement a custom CNN-LSTM hybrid architecture for time series prediction and pattern recognition. The system includes custom embedding layers for categorical features, attention mechanisms for temporal weighting, and probabilistic output layers. The backend API is built with FastAPI for real-time predictions, while the frontend uses React.js for data visualization and betting recommendation display. Custom loss functions combine cross-entropy with regularization terms to optimize for betting profitability rather than simple accuracy.",
+    "upcoming": "The project achieved around 70% - 80% on validation data. Next steps include improving model accuracy through ensemble methods and advanced feature engineering. The system will then be generalized to handle different types of betting scenarios, with real-time data integration and automated prediction processes.",
     "image":betting
   },
   {
