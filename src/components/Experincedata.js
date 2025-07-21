@@ -4,25 +4,26 @@ const work = [
     "date":"16-08-2022 to Current", 
     "name":"Norwood Systems", 
     "description":`
-    - Architect a robust AI microservices architecture that facilitated seamless integration with existing software components, enhancing system responsiveness by 30%.
-    - Lead the development of Text-to-Speech (TTS) and streaming solutions, advancing speech synthesis technology projects, and contributing to innovative digital products. 
-    - Engineer C++-based data pipelines using vector, map and shared_pointer to manage binary data and memory across services, enabling low-latency, real-time audio streaming.
-    - Implement LLM-powered agents using LangChain, crewAI, and RAG with NLP techniques to generate intelligent feedback and recommendations, automating evaluation and improving AI-driven user experiences. 
-    - Optimize deployment speed by 20% and scalability by 35% through containerized microservices and efficient API orchestration using Docker, Kubernetes, and RESTful interfaces.
+    - Implement LLM-powered conversational agents using LangChain, and RAG architecture to deliver contextually_aware responses and personalized recommendations, enhancing user engagement and experience quality.
     - Utilize machine learning algorithms (predictive modeling, neural networks) with Python, PyTorch to improve data processing and boost prediction accuracy by 30%.
-    - Develop an interactive UI using React.JS and Typescript for demonstrating AI features to clients. 
-    - Mentor and guide interns on deploying AI services and integrating machine learning models with RESTful APIs into mobile applications, enabling the creation of an AI-agent chat system replicating real-time phone call interactions. `
+    - Architect a robust AI microservices architecture that facilitated seamless integration with existing software components, enhancing system responsiveness by 30%.
+    - Lead the development of Text_to_Speech (TTS) and streaming solutions, advancing speech synthesis technology projects, and contributing to innovative digital products.
+    - Develop high_performance C++ API interfaces using STL containers (vector, map) and smart pointer management (shared_ptr) to enable seamless external system integration with AI services, facilitating real_time binary data exchange and low_latency audio streaming.
+    - Deploy and manage containerized AI microservices on AWS EKS and Azure AKS using Docker and Kubernetes, achieving 20% faster deployment speed and 35% improved scalability across multi-cloud environments.
+    - Mentor and guide interns on deploying AI services and integrating machine learning models with RESTful APIs into mobile applications, enabling the creation of an AI_agent chat system replicating real_time phone call interactions. `
   },
   {
-    "title":"Data Scientist",
+    "title":"Data Scientist/ML Engineer",
     "date":"13-12-2021 to Current",
     "name":"Freelance",
     "description":`
-    - Successfully scraped and preprocessed datasets from various websites, enabling data_driven and decision_making for clients.
-    - Trained and validated machine learning models, achieving up to 95% prediction accuracy.
-    - Deployed and maintained machine learning models, ensuring optimal performance and timely update.
-    - Worked with diverse clients, demonstrating adaptability and strong communication skills.`,
-    "skills":"Python - numpy, pandas, beautifulSoup, Selenium, Scrapy, Tensorflow - ANN, CNN, RNN"
+    - Develop Speech-to-Text (STT) systems using Rust, supporting multiple audio codecs and sample rates to deliver robust transcription solutions for client applications.
+    - Automate data scraping and preprocessing using Beautiful Soup, Scrapy, and Selenium to get data from various sources, enabling enhanced decision-making processes for a diverse client base.
+    - Develop and train deep learning models (LSTM, CNN) using PyTorch and TensorFlow to perform time series analysis and inference, achieving up to 85% _ 90% prediction accuracy in dynamic environments and enhancing model reliability for client projects.
+    - Design and conduct A/B testing, hypothesis testing, regression, and clustering to evaluate business strategies and optimize customer engagement and product performance.
+    - Deploy ML models as production-ready real-time analytics services using FastAPI to create high-performance API endpoints, Docker for application containerization and environment consistency, and Kubernetes for automated scaling and management on AWS infrastructure, achieving 95% uptime and 20% latency reduction. 
+    - Demonstrate adaptability and effective communication across projects, meeting diverse client needs and expectations.`,
+    "skills":"Python : numpy, pandas, beautifulSoup, Selenium, Scrapy, Tensorflow (ANN, CNN, RNN, LSTM)"
   }, 
   {
     "title":"Coaching",
