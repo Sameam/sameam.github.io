@@ -62,11 +62,12 @@ const timelineData = [
   {
     "title":"Machine Learning & AI Engineer", 
     "subtitle":"Work in telecommunication company", 
-    "description":`As an ML/AI Engineer at Norwood System since August 2022, 
-                  I have transformed data science prototypes into fully functional AI models, boosting user engagement by 25% on iOS and Android platforms. 
-                  I engineered and deployed robust ML systems with Docker and Kubernetes, increasing deployment speed by 20% and scalability by 35%. 
-                  Implementing various ML algorithms with Python and TensorFlow, I enhanced real_time data processing accuracy and efficiency. Additionally, 
-                  I streamlined AI model deployment processes, ensuring consistent performance across platforms, and improved prediction accuracy by over 30% through rigorous statistical analysis and model optimization.`,
+    "description":`As an ML/AI Engineer at Norwood Systems, 
+                  I architect and implement comprehensive AI solutions spanning conversational agents, speech synthesis, and microservices infrastructure. 
+                  My work centers on developing LLM-powered conversational agents using LangChain and RAG architecture for contextually-aware responses, while leading Text-to-Speech (TTS) and streaming technology projects that contribute to innovative digital products. 
+                  I utilize machine learning algorithms and PyTorch to achieve 30% improvements in both data processing accuracy and system responsiveness through robust microservices architecture. On the technical infrastructure side, 
+                  I develop high-performance C++ API interfaces using STL containers and smart pointer management for seamless external system integration, and deploy containerized AI microservices across AWS EKS and Azure AKS environments, achieving 20% faster deployment speeds and 35% improved scalability. 
+                  Additionally, I mentor interns on AI service deployment and mobile application integration, enabling the creation of AI-agent chat systems that replicate real-time phone call interactions.`,
     "date":"16 August 2022"
   }
 ]
