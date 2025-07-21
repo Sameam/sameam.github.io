@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.71369098.css",
-    "main.js": "/static/js/main.d5954cd3.js",
+    "main.js": "/static/js/main.5f7fe4e8.js",
     "static/media/EY.jpg": "/static/media/EY.955d3007b2ebf54b8b82.jpg",
     "static/media/Betting.jpeg": "/static/media/Betting.790aa7e02b8db77b1849.jpeg",
     "static/media/myself.jpg": "/static/media/myself.7a786bb00693cd3002c6.jpg",
@@ -12,10 +12,10 @@
     "static/media/STT.png": "/static/media/STT.586553a9a74a9170f09e.png",
     "index.html": "/index.html",
     "main.71369098.css.map": "/static/css/main.71369098.css.map",
-    "main.d5954cd3.js.map": "/static/js/main.d5954cd3.js.map"
+    "main.5f7fe4e8.js.map": "/static/js/main.5f7fe4e8.js.map"
   },
   "entrypoints": [
     "static/css/main.71369098.css",
-    "static/js/main.d5954cd3.js"
+    "static/js/main.5f7fe4e8.js"
   ]
 }
