@@ -17,11 +17,11 @@ const work = [
     "date":"13-12-2021 to Current",
     "name":"Freelance",
     "description":`
-    - Develop Speech-to-Text (STT) systems using Rust, supporting multiple audio codecs and sample rates to deliver robust transcription solutions for client applications.
-    - Automate data scraping and preprocessing using Beautiful Soup, Scrapy, and Selenium to get data from various sources, enabling enhanced decision-making processes for a diverse client base.
+    - Develop Speech_to_Text (STT) systems using Rust, supporting multiple audio codecs and sample rates to deliver robust transcription solutions for client applications.
+    - Automate data scraping and preprocessing using Beautiful Soup, Scrapy, and Selenium to get data from various sources, enabling enhanced decision_making processes for a diverse client base.
     - Develop and train deep learning models (LSTM, CNN) using PyTorch and TensorFlow to perform time series analysis and inference, achieving up to 85% _ 90% prediction accuracy in dynamic environments and enhancing model reliability for client projects.
     - Design and conduct A/B testing, hypothesis testing, regression, and clustering to evaluate business strategies and optimize customer engagement and product performance.
-    - Deploy ML models as production-ready real-time analytics services using FastAPI to create high-performance API endpoints, Docker for application containerization and environment consistency, and Kubernetes for automated scaling and management on AWS infrastructure, achieving 95% uptime and 20% latency reduction. 
+    - Deploy ML models as production_ready real_time analytics services using FastAPI to create high_performance API endpoints, Docker for application containerization and environment consistency, and Kubernetes for automated scaling and management on AWS infrastructure, achieving 95% uptime and 20% latency reduction. 
     - Demonstrate adaptability and effective communication across projects, meeting diverse client needs and expectations.`,
     "skills":"Python : numpy, pandas, beautifulSoup, Selenium, Scrapy, Tensorflow (ANN, CNN, RNN, LSTM)"
   }, 
