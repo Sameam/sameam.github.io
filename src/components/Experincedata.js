@@ -4,7 +4,7 @@ const work = [
     "date":"16-08-2022 to Current", 
     "name":"Norwood Systems", 
     "description":`
-    - Implement LLM-powered conversational agents using LangChain, and RAG architecture to deliver contextually_aware responses and personalized recommendations, enhancing user engagement and experience quality.
+    - Implement LLM_powered conversational agents using LangChain, and RAG architecture to deliver contextually_aware responses and personalized recommendations, enhancing user engagement and experience quality.
     - Utilize machine learning algorithms (predictive modeling, neural networks) with Python, PyTorch to improve data processing and boost prediction accuracy by 30%.
     - Architect a robust AI microservices architecture that facilitated seamless integration with existing software components, enhancing system responsiveness by 30%.
     - Lead the development of Text_to_Speech (TTS) and streaming solutions, advancing speech synthesis technology projects, and contributing to innovative digital products.
